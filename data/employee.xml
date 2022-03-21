@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    
+    
+    
+
+<employee id="1"><name>shrouk</name><email>eng.shrouk.mamdoh@gmail.com</email><address>tanta</address><salary>20000</salary></employee><employee id="2"><name>monica</name><email>eng.shrouk.mamdoh@gmail.com</email><address>sporting</address><salary>15000</salary></employee><employee id="3"><name>nada</name><email>nada@gmail.com</email><address>cairo</address><salary>1234</salary></employee><employee id="4"><name>asmaa</name><email>asmaa@gmail.com</email><address>awayd</address><salary>50000</salary></employee></employees>
